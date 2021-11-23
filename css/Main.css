@@ -127,7 +127,18 @@
 
 
 
-
+@media (max-width: 580px){
+    .owl-carousel {
+        width: 90%;
+        margin: auto;
+    }
+    .owl-prev {
+        left: -45px;
+    }
+    .owl-next {
+        right: -45px;
+    }
+}
 
 
 
